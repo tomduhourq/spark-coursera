@@ -1,6 +1,6 @@
 *.class
 *.log
-
+*/resources/**
 # sbt specific
 .cache
 .history
@@ -16,6 +16,7 @@ project/plugins/project/
 .scala_dependencies
 .worksheet
 
+**/.idea/
 
 # Created by https://www.gitignore.io/api/intellij
 
